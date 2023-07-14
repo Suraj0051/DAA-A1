@@ -1,12 +1,11 @@
 # DAA-A1
-Convex Polygon Decomposition
+
 This project is an implimentation of the following research paper
 
-[1] Fernández, J., Cánovas, L., & Pelegrın, B. (2000). Algorithms for the decomposition of a polygon into ́
+Fernández, J., Cánovas, L., & Pelegrın, B. (2000). Algorithms for the decomposition of a polygon into ́
 convex polygons. European Journal of Operational Research, 121(2), 330-342.
 https://doi.org/10.1016/S0377-2217(99)00033-8
 To run the code first run generate_points.py file with the following prompt
-
 python generate_points.py 15 #here 15 represend the total number of vertices or nodes of the polygon.
 this will create an input.txt file with the following content For Ex:
 
